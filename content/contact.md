@@ -1,5 +1,5 @@
 ---
 title: Contact
-hidden: true
+hidden: false
 ---
-You can reach me by Email at _email[at]example.com_
+You can reach out to me at kyle@afterschool.studio or on Twitter [@kkukshtel](http://twitter.com/kkukshtel)

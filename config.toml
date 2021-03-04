@@ -26,8 +26,8 @@ Below is a blog that tracks its development, and serves as the homepage for the 
 
   [[params.links]]
     [[params.links.link]]
-      name = "About"
-      href = "/about"
+      name = "Contact"
+      href = "/contact"
     [[params.links.link]]
       name = "Newsletter"
       href = "https://buttondown.email/dinghy"
