@@ -1,0 +1,33 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Dinghy"
+theme = "rocinante"
+paginate = 3
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  favicon = "/icons/favicon.png"
+  mainSections = ["posts", "photos"]
+  email = "mail@example.com"
+  about = """
+<img src="/images/d512.png"></img>
+
+<b>Dinghy</b> is an upcoming game framework/engine built in C#.
+
+It's built with immediacy, coziness, and magic in mind.
+Below is a blog that tracks its development, and serves as the homepage for the project while things are still getting setup.
+
+"""
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "About"
+      href = "/about"
+    [[params.links.link]]
+      name = "Newsletter"
+      href = "https://buttondown.email/dinghy"
