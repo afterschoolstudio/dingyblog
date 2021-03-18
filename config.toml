@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://dinghy.xyz/"
 languageCode = "en-us"
 title = "Dinghy"
 theme = "rocinante"
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   favicon = "/icons/favicon.png"
   mainSections = ["posts", "photos"]
-  email = "mail@example.com"
+  email = "kyle@afterschool.studio"
   about = """
 <img src="/images/d512.png"></img>
 
